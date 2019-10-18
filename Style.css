@@ -1,0 +1,21 @@
+body {
+			background-color: #FF0000;
+			background-image: url("699339.png");
+			background-size: cover;
+		}
+		h1,h2,h3{
+			color:#FF0000;
+			text-align: center;
+		}
+		label{
+			font-size: 20px;
+			color:#FF0000;
+			text-align: center;
+		}
+		.lol {
+			padding: 200px;
+			background-color: rgb(0,0,0,0.8);
+			border-radius: 60px;
+			margin: 120px; 
+			text-align: center;
+		}
